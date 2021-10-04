@@ -1,0 +1,10 @@
+.test {
+  font: italic normal 1.4em georgia, sans-serif;
+  letter-spacing: 1px;
+  color: #7d775c;
+  background-color: azure;
+  box-shadow: "0px 0px 3px .5px rgb(82, 81, 81";
+  border-radius: 50em;
+  padding: 30px;
+  display: block;
+}
